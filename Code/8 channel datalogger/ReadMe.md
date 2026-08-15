@@ -22,5 +22,5 @@
 |anode(-) | GND              |
 |cathode(+)| A0/A1/A2/A3     |
 
-![Datalogger wiring](https://github.com/marialilokyee/phytonet/blob/d63f8a8ab85cab9f89614e190a7abc43facc1641/Photos/8%20shannel%20Datalogger_ESP32_ADS1115.png)
+![Datalogger wiring](https://github.com/marialilokyee/Soil-MFC/blob/7686a4e9417897701230a8937ffd8816418b9be4/Code/8%20channel%20datalogger/8%20shannel%20Datalogger_ESP32_ADS1115.png)
 
