@@ -8,7 +8,7 @@ This project explores low-energy, waste-derived materials for microbial fuel cel
 * Code for muti-channel voltage datalogger
 * And more is coming :)
 
-### Project progress report: (https://zenodo.org/records/21780063)
+### Project progress report: (https://zenodo.org/records/21954318)
 
 -------------
 
