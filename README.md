@@ -5,7 +5,7 @@ This project explores low-energy, waste-derived materials for microbial fuel cel
 
 ### In this repository, you can find:
 * CAD files of the 3D print mould for casting the chassis/membrane
-* Code for muti-channel voltage datalogger
+* Code for multi-channel voltage datalogger
 * And more is coming :)
 
 ### Project progress report: (https://zenodo.org/records/21954318)
